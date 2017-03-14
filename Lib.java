@@ -9,14 +9,15 @@ public class Lib {
         metodoAlumno2();
     }
 
-    public void metodoAlumno2(){
-        metodo3();
+    public void metodoAitorGustavo(){
+       System.out.println("Modificado por Aitor "); //Modificado por el alumno colaborador
     }
 
     public void metodoComunitario(){
-    }
+    } //Comentario incluido para pruebas
+System.out.println ("Aquí escribimos todos);
+//Modificaciones alumno colaborador
+System.outprintln("Aitor inserta esta sentencia");
 
-    public void metodo3(){
-        System.out.println("metodo_3");
     }
 }
